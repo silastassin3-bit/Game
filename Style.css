@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  background-color: #888;
+}
+
+#click {
+  border: 2px solid green;
+  color: darkgreen;
+}
+
+#score {
+  color: red;
+}
